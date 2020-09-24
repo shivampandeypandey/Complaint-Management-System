@@ -1,4 +1,4 @@
-# Complaint-Management-System in Laravel
+# Complaint-Management-System 
  This is Complaint Management System built with PHP &amp; mySQL(back-end), AJAX (client-server Requests), Material+Boostrap (Front-end) and jQuery.
 # Installation for Xampp
 1. git clone https://github.com/shivampandeypandey/Complaint-Management-System.git
